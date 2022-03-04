@@ -79,3 +79,19 @@ h2{
   color: white;
   font-weight: 300;
 }
+.first{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+}
+.second{
+    background-image:url(images/biography-bg.png) ;
+    background-repeat: no-repeat;
+}
+.third{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+.forth{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+}
